@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    padding: 40px 0 96px 0;
+}
+
+.top__content {
+    margin: 84px 0 259px 0;
+}
+
+.title {
+    margin: 0 0 17px 0;
+}
+
+.text {
+    margin: 0 0 37px 0;
+}
