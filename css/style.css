@@ -93,8 +93,6 @@
     top: -1.5px;
 }
 
-
-
 .top__content {
     margin: 84px 0 259px 0;
 
@@ -165,5 +163,5 @@
 }
 
 .logo-link {
-    /*max-width: 160px;*/
+    max-width: 160px;
 }
